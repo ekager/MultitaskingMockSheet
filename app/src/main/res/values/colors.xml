@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="theme_primary">#00BCD4</color>
+    <color name="theme_primary_dark">#0097A7</color>
+    <color name="theme_primary_dark2">#006064</color>
+    <color name="theme_accent">#FFEB3B</color>
+
+    <color name="background_card">#ffffff</color>
+    <color name="background_snackbar">#323232</color>
+
+    <color name="text_black_87">#de000000</color>
+    <color name="text_white_87">#deFFFFFF</color>
+
+    <color name="background_sheet">#FFFFFF</color>
+
+    <color name="colorPrimary">#FF363B40</color>
+    <color name="colorPrimaryDark">#6c3b6e</color>
+    <color name="colorAccent">#FFCF68FF</color>
+
+    <color name="colorGradientStart">#FFA23B3F</color>
+    <color name="colorGradientCenter">#FF83377B</color>
+    <color name="colorGradientEnd">#FF29528C</color>
+
+    <color name="colorActiveGradientStart">#FF9B3A4D</color>
+    <color name="colorActiveGradientCenter">#FF82377D</color>
+    <color name="colorActiveGradientEnd">#FF3E4C8A</color>
+
+    <color name="colorProgressGradientStart">#FF9400FF</color>
+    <color name="colorProgressGradientEnd">#FFFF1AD9</color>
+
+    <color name="coloInactiveGradientStart">#FF503B44</color>
+    <color name="colorInactiveGradientCenter">#FF493A50</color>
+    <color name="colorInactiveGradientEnd">#FF383F53</color>
+
+    <color name="colorAutocompleteHighlight">#FFCF68FF</color>
+
+    <color name="colorFloatingActionButtonTint">#96368D</color>
+
+    <color name="colorUrlInputBackground">#B2000000</color>
+
+    <color name="snackbarBackground">#33FFFFFF</color>
+    <color name="snackbarTextColor">#ffffffff</color>
+
+    <color name="searchHintTextColor">#ffffffff</color>
+
+    <color name="onboarding_indicator_default">#7FFFFFFF</color>
+    <color name="onboarding_indicator_selected">#FFFFFFFF</color>
+
+    <color name="download_dialog_text">#FF00A4DC</color>
+
+    <color name="add_to_homescreen_button_text">#FF00A4DC</color>
+    <color name="add_to_homescreen_text">#FFFFFF</color>
+
+    <color name="inactive_text">#7FFFFFFF</color>
+
+    <color name="nice_blue">#4286f4</color>
+    <array name="note_neutral_colors">
+        <item>#9E9E9E</item>
+        <item>#455A64</item>
+        <item>#607D8B</item>
+    </array>
+
+    <array name="note_accent_colors">
+        <item>#039BE5</item>
+        <item>#3D51B3</item>
+        <item>#689f38</item>
+        <item>#FD7044</item>
+    </array>
+</resources>
+
+
